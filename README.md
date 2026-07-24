@@ -8,7 +8,9 @@
 
 ## About Me
 
-I'm a backend web developer based in Santa Catarina, Brazil, focused on designing and building robust APIs and server-side systems. My main stack is **Java with Spring**, **PHP with Laravel**, and **Go with Gin**.
+I'm a Backend Software Engineer based in Santa Catarina, Brazil.
+
+I build APIs and server-side systems using Java (Spring), PHP (Laravel), and Go (Gin). I care about clean architecture, readable code, and systems that are easy to maintain and scale.
 
 - 🔭 Currently working on backend systems and APIs for web platforms
 - 🌱 Always deepening my knowledge of backend architecture and clean code practices
@@ -25,13 +27,6 @@ I'm a backend web developer based in Santa Catarina, Brazil, focused on designin
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielsumaraf&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gabriel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsumaraf&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ## Contribution Snake
